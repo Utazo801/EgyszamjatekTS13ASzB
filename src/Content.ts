@@ -113,7 +113,7 @@ export default class Content {
             res.write("Nem volt nyertes az adott körben, ezért nem készült fájl");
         }
         res.write("<br>");
-        res.write("Github repository: <a href='https://github.com/Utazo801/EgyszamjatekTS13A_SzB' target= '_blank'>Github</a>");
+        //res.write("Github repository: <a href='https://github.com/Utazo801/EgyszamjatekTS13ASzB' target= '_blank'>Github</a>");
         // <---- Fejezd be a kódolást
 
         res.write("</pre></form>");
